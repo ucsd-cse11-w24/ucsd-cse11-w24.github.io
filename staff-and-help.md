@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE8B – Accelerated Introduction to Programming"
+title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 8B Winter 2024
+# UCSD CSE 11 Winter 2024
 ## Asking Questions and Getting Help
 
 There are 24 staff members (instructor, TAs, and tutors) to help with your
