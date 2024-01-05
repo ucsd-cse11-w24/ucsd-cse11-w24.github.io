@@ -1,11 +1,11 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE8B Winter 24"
+title: "Syllabus – UCSD CSE11 Winter 24"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 8B Winter 2024
-## Intro to Programming 2
+# UCSD CSE 11 Winter 2024
+## Accelerated Introduction to Programming
 
 _Greg Miranda_
 
@@ -20,7 +20,7 @@ learning through your own program designs.
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-On an average week in CSE8B, you can expect to spend 4-6 hours,
+On an average week in CSE11, you can expect to spend 4-6 hours,
 reading, lecture, and discussion; and 4-6 hours working on your programming projects. 
 If you find yourself spending dramatically more time than this, it's a good idea to 
 contact the course staff and discuss more efficient strategies in office hours.
