@@ -44,4 +44,4 @@ on Google Drive to download it.
 
 ## Notes & Files from Lecture 
 
-[Lecture Notes](https://drive.google.com/drive/folders/1une_mg_xnd4V94NIGodmhEqEykmBoquo?usp=sharing){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/1wew3g2GKL286CPcfc39DXzI3rZMiGAY6?usp=sharing){:target="_blank"}
