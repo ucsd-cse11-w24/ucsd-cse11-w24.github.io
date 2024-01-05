@@ -1,9 +1,9 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE8B – Accelerated Introduction to Programming"
+title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
 
-# UCSD CSE 8B Winter 2024
+# UCSD CSE 11 Winter 2024
 ## Accelerated Intro to Programming
 
 _Greg Miranda_
