@@ -1,12 +1,12 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE8B – Accelerated Introduction to Programming"
+title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 8B Winter 2024
+# UCSD CSE 11 Winter 2024
 
 ## Meeting with Staff
 
-The main reasons to come see the staff in CSE8B is:
+The main reasons to come see the staff in CSE11 is:
 
 1. You need help on an assignment, 
 2. Reviewing past work
