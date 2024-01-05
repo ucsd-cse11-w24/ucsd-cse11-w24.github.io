@@ -11,7 +11,7 @@ learning, and a few different ways to get in touch and ask for help.
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/winter2024/cse8b_wi24_a00/home](https://piazza.com/ucsd/winter2024/cse8b_wi24_a00/home){:target="_blank"}
+- Piazza Message Board: [https://piazza.com/ucsd/winter2024/cse11_wi24_a00/home](https://piazza.com/ucsd/winter2024/cse11_wi24_a00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
 - Tutoring Procedurs: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
@@ -27,7 +27,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/winter2024/cse8b_wi24_a00/home](https://piazza.com/ucsd/winter2024/cse8b_wi24_a00/home){:target="_blank"}
+[https://piazza.com/ucsd/winter2024/cse11_wi24_a00/home](https://piazza.com/ucsd/winter2024/cse11_wi24_a00/home){:target="_blank"}
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
