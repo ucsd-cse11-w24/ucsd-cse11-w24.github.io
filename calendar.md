@@ -1,15 +1,15 @@
 ---
 layout: with-sidebar
-title: "Calendar – UCSD CSE8B Winter 24"
+title: "Calendar – UCSD CSE11 Winter 24"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 8B Winter 2024
+# UCSD CSE 11 Winter 2024
 ## Accelerated Intro to Programming
 
 ### Lectures and Instructor Office Hours
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_c5eae41449da5e2350d8cd81c8bec8baec43b7a3b0b456e081f24f14ce11fd66%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_b6826f76a4060fe7881be0ef0e9366131a166c9f563721eaec8d039b4c1ea2c3%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Remote Help
 
