@@ -24,7 +24,7 @@ Session plan:
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
-    - #FinAid Survey in Canvas (due ASAP)
+    - [#FinAid Survey in Canvas (due ASAP)](https://canvas.ucsd.edu/courses/52204/quizzes/160216){:target="_blank"} 
     - Asking questions
       - Piazza - preferred
       - Email - personal issues
