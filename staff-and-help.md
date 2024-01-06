@@ -74,7 +74,7 @@ likely summarizes a lot of what they would tell you to get you started.
 **What's the course material like?**
 
 You can see a [previous version of the
-course](https://ucsd-cse11-sp21.github.io/){:target="_blank"}, which will give you a sense. This
+course](https://ucsd-cse11-w23.github.io/){:target="_blank"}, which will give you a sense. This
 offering will not be identical, but will be similar.
 
 There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
