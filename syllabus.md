@@ -150,7 +150,7 @@ will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we wil
 There will be two in-person exams in this course: a midterm and a final exam. The exam dates are shown below:
 
 - Midterm Exam: Friday, February 16th 2024
-- Final Exam: Wednesday, March 20th 2024
+- Final Exam: Wednesday, March 22nd 2024
 
 The final exam will be **cumulative** and will cover all topics discussed in the course. 
 
