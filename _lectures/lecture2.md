@@ -28,8 +28,8 @@ to ensure that they are certified.
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/10L5GoAy_9er1zOMMg6GG2g8_MtqQAFLW/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1wbqLTLnay_xG4gcwQiZfPRocrrqNLexz?usp=sharing){:target="_blank"}
