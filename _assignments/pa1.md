@@ -195,7 +195,7 @@ The rubric we will use to grade this method is:
 ## Problem 2: Quadratic Equation
 Develop a method named ```quadraticEquation``` that when given integers: a, b, c and x, describing a quadratic equation of the form:
 
-```y = ax² + bx + c = 0``` , calculates and returns the value of y. 
+```y = ax² + bx + c``` , calculates and returns the value of y. 
 
 The rubric we will use to grade this method is:
 
