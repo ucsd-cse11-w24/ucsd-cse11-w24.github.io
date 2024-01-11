@@ -243,9 +243,9 @@ Here is a list of items to check for before submitting PA1.
 
 - [ ] CompileTimeErrors.java
 - [ ] DesignRecipeExamples.java
-  - [ ] Perimeter Method 
+  - [ ] Volume Method 
     - [ ] At least 2 tests, each with different parameters and a comment (at least 2) with the expected value of the test 
-  - [ ] BorderArea Method 
+  - [ ] QuadraticEquation Method 
     - [ ] At least 2 tests, each with different parameters and a comment (at least 2) with the expected value of the test 
   - [ ] Converter Method 
     - [ ] At least 2 tests, each with different parameters and a comment (At least 2) with the expected value of the test
