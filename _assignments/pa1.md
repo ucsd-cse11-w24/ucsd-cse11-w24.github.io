@@ -102,12 +102,44 @@ class FirstExample {
 
 Let's explore this program a little:
 
-* We see that the code is encased inside `class FirstExample { ... }`. This means that we have created a new class using the `class` keyword and named it `FirstExample`.
-* The `{` and `}` denote the beginning and end of the FirstExample class. Code we write will be contained inside classes. Classes in Java can contain many different types of information, two of which we will be focusing on in Part 2. They are `Fields` and `Methods`. The program we just wrote contains just one field.
+* We see that the code is encased inside `class FirstExample { ... }`. This means that we have created a new class using the `class` keyword and named it `FirstExample`. This is the _class-header_. 
+* The `{` and `}` denote the beginning and end of the FirstExample class, and is called the class _body_. Code we write will be contained inside classes. Classes in Java can contain many different types of information, two of which we will be focusing on in Part 2. They are `Fields` and `Methods`. The program we just wrote contains just one field.
 * `Fields` are named variables that belong to a class and are written outside of `Methods`. The class `FirstExample` contains a single field of type `int` named `theNumberFive` with an assigned value of `5`. Notice the line `int theNumberFive = 5;` and how it takes the form of `[Type] [Variable Name] = [Assigned Value];`. Additionally notice that it belongs to the class `FirstExample` and not to any method.
 * By using the `run` command, we are able to confirm several aspects of our program. We are able to identify our class via the line `new FirstExample:1( ... )`. The FirstExample class contains 1 field named `theNumberFive` and its value is `5`. We can use the `run` command to check that our program is working as you expect it to.
 
 __Note: Running this program through the Run Button in VSCode will fail, and complain about the missing main method. You can ignore this for now. We will show you how to run the program in Part 3 of this assignment. All parts are supposed to be done sequentially. Skipping part 2 of this assignment, and moving directly to Part 3 will cause your compilation of this program to fail!__ 
+
+#### Optional Reading - What are Methods
+
+This is just optional reading if you need to know more about Methods. You may skip this and directly move to Part 2 of the assignment!
+
+_Method is a block of code that performs a specific task and can be executed when it is called. Methods are used to organize code into reusable blocks, making it easier to manage and maintain. An example of a method is as follows:_
+
+```
+int addNumbers(int a, int b) {
+    // Method body
+    int result = a + b;
+    
+    // Returning the result
+    return result;
+}
+
+```
+
+Let's break down the components of this method:
+
+* We see that the code is encased inside `int addNumbers(int a, int b) { ... }`. This means that we have created a new method that will take 2 parametrs `a` and `b`, and will return a value of type `int` (or an integer) and named it `addNumbers`. This is the header of the method.
+* `a` and `b` are parameters. These are variables that act as placeholders for values that will be passed to the method when it is called.
+* The `{` and `}` denote the beginning and end of the addNumbers method, and is called the method _body_. Code we write will be contained inside classes, and should basically contain logic for calculation of addition of two numbers and returning the sum.
+* `return` is used to send a value back to the calling code.
+
+You can call the method using the following:
+
+```
+int sum = addNumbers(5, 10);
+```
+
+This will call the method addNumbers with the values 5 and 10. The method will add the numbers and return the result of addition, that would be saved to a field `sum` of type int.
 
 ## Part 2 - Compile Time Errors
 
