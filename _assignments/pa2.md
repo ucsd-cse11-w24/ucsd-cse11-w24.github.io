@@ -84,7 +84,7 @@ objects) you will have to go to their profile and see how many subscribers they
 have and then instantiate a new object with that value.
 
 
-![An example user](./youtube-user.jpg)
+![An example user](./youtube-user.jpg){:width="100%"}
 
 ### `Video`
 
@@ -119,7 +119,7 @@ initializes it. <span color = "blue">**NOTE: PLEASE MAKE SURE THAT THE ORDER OF 
     This method returns a string representing the URL for the Video
     Example output: `"https://www.youtube.com/watch?v=uKaYzDPRvY0"`
 
-![An example Video](./youtube-video.jpg)
+![An example Video](./youtube-video.jpg){:width="100%"}
 
 ### `ExampleVideos`
 
