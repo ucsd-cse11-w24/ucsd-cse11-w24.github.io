@@ -17,8 +17,8 @@ Readings to be completed **before** problem session.
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/17w1i2FtCxs_NqgwXzJYoFAV1Jq3VmgOl/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1wXnw-j4OYX7C0Kvf9XwDPjbyOgJ2R-_2?usp=sharing){:target="_blank"}
