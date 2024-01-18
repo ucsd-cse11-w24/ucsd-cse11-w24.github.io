@@ -109,9 +109,9 @@ initializes it. <span color = "blue">**NOTE: PLEASE MAKE SURE THAT THE ORDER OF 
   - `String toText()`
 
     Returns a String that represents the Video object with all the User
-    information as text, and also displays the video description and likes.
+    information as text, and also displays the video title and likes.
     The returned string should have the `toText` of the user followed by the
-    description, followed by the number of likes, as in this example:
+    title, followed by the number of likes, as in this example:
     `"UC San Diego Admissions @UCSanDiegoAdmissions : Welcome to UC San Diego : 138 Likes"`
 
   - `String toLink()`
