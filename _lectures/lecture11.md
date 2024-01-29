@@ -20,4 +20,4 @@ Stepik reading:
 
 ## Completed Worksheets from Lecture
 
-[Lecture Notes](https://drive.google.com/drive/folders/1vF749hqdCIp7Ace6zjYEz-FlCHsa5abC?usp=sharing){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/1wMv_t3eOYKbGKmykYbQam6eh5Gx3-w2Y?usp=sharing){:target="_blank"}
