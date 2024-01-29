@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 14
 name: Variables and Loops
-released-on: "2024-02-07"
+released-on: "2024-02-09"
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
