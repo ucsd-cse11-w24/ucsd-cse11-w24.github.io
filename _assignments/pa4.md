@@ -41,7 +41,7 @@ A `User` contains two fields:
 
 Let's talk about Comment Threads on YouTube:
 
-![CommentThread](https://github.com/ucsd-cse11-w24/PA4/assets/34093007/dae1dad8-7d87-4192-aeea-b46b45a27353)
+![CommentThread](./comment-thread.jpg){:width="100%"}
 (Modified from https://www.youtube.com/watch?v=U3aXWizDbQ4&t=3s)
 
 This is an example comment thread from Youtube. In Youtube, when a someone replies to a reply - the username of the user you are replying to is the first word in the reply comment. This is a chain of 4 comments, that will correspond to the same comment thread, because each user is replying to a previous reply. We would try to create such a chain of comments through our code now.
