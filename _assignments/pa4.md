@@ -121,8 +121,8 @@ User u1 = new User("test_username1", "Test User Full Name 1");
 User u2 = new User("test_username2", "Test User Full Name 2");
 
 Comment vc = new VideoComment("This is a great example to use the Tester Library!", 10, 5, u1);
-Comment rc1 = new ReplyComment("Yeah, I agree!", 7, u2, rc1);
-Comment rc2 = new ReplyComment("Thanks for acknowledgment!", 4, u1, rc2);
+Comment rc1 = new ReplyComment("Yeah, I agree!", 7, u2, vc);
+Comment rc2 = new ReplyComment("Thanks for acknowledgment!", 4, u1, rc1);
 ```
 
 Then, the output of `unrollCommentThread` will be the following:
