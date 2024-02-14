@@ -166,5 +166,5 @@ arrays, one containing the `a` elements and one containing the `b` elements.
 Decide how to represent the return value yourself.
 
 ## FAQ
-1. You only need to finish/submit 2 of the 4 tasks, and pa6-code assignment on Gradescope is due on the same day as pa6-notes (August 25th).
+1. You only need to finish/submit 2 of the 4 tasks, and pa6-code assignment on Gradescope is due on the same day as pa6-notes (February 21st).
 
