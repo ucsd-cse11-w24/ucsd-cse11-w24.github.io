@@ -30,6 +30,7 @@ The starter code is available at:
 ## Task
 
 Make a copy of [this Doc](https://github.com/ucsd-cse11-w23/cse11-pa6-starter/blob/main/PA6%20Template.docx).
+Here is also the [pdf version](https://github.com/ucsd-cse11-w23/cse11-pa6-starter/blob/main/PA6%20Template.pdf) if you need it. 
 You will fill it in as you work.
 
 Your task is to complete **two** of the following programs of your choice,
@@ -79,11 +80,15 @@ returns an array of `int` that contains the `b` field of all the `Triplet`s in
 the array given as an argument. Write at least 4 `checkExpect` tests for it
 to cover interesting cases.
 
+  Note: Do not make your `getBs` method as `public` or `static`. It won't pass on the autograder if you do this way. 
+
 - In a file called `ShortStrings.java`, write a method called `shortStrings`
 that takes an array of `String` and an integer `n` and produces a new array
 of `String`s that are just the strings in the array that have length `n` or
 lesser (the returned array might be **shorter** than the input array). Write
 at least 4 `checkExpect` tests for it to cover interesting cases.
+
+  Note: Do not make your `shortStrings` method as `public` or `static`. It won't pass on the autograder if you do this way. 
 
 - Copy the `Point` class from the [regions
 code](https://github.com/ucsd-cse11-w23/cse11-pa6-starter/blob/main/ExamplesRegion.java) in lecture into
@@ -103,6 +108,8 @@ representing the x and y coordinates of three points. For example:
     $ java ClosestPoints 0 0 3 4 3 900
     The closest points are (0, 0) and (3, 4) at distance 5.0
     ```
+
+Note: You don't need to write test cases for the programs that use the main method (`ClosestPoints`, and `PositiveMinMaxAvg`), although you are encouraged to run the programs yourselves to ensure correctness. Autograder will run your program on some test cases, and give you your score. 
 
 ## Reflection
 
@@ -134,8 +141,7 @@ etc. So for that reason I think this is a really useful exercise.
 
 ## Finishing
 
-You must still finish these programs as part of the assignment. There is no
-autograder for them released while the assignment is out; we will grade them
+You must still finish these programs as part of the assignment. The autograder score is not your final score (But you should still get full score if your code is correct), and we will grade the submissions
 manually after the deadline. Come ask for help in tutor hours (help sessions) 
 if you need help finishing them! We do ask that you spend at least one 
 30-minute session with notes before coming to help sessions on PA6, and we 
@@ -143,7 +149,7 @@ might ask to see your notes for a sense of your progress when you come.
 
 ## Submission
 
-Export your notes document as a PDF using Google Docs (under the File menu).
+You need to turn in a pdf of the Notes document. Either convert the .docx file into pdf (using Google Docs or Word), or fill in your answers in the pdf version provided.
 You'll hand it in under the `pa6-notes` assignment on Gradescope.
 
 You'll hand in the two `.java` files with your completed tasks to the
