@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 17
-name: Nested Loops
+name: More Loops Practice
 released-on: "2024-02-21"
 ---
 
