@@ -19,4 +19,4 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 
 ## Completed Worksheets from Lecture
 
-[Lecture Notes](https://drive.google.com/drive/folders/1wKdN2b0zaiwy6FN25_-nLT9Dygv1Td9S?usp=sharing){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/1wxLI8Vq_nHjw4xE5Bv7srUPPF9hkXsPl?usp=sharing){:target="_blank"}
