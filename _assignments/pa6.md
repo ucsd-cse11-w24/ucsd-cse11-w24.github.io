@@ -7,7 +7,7 @@ released-on: "2023-02-14"
 
 # Programming Assignment 6
 
-### Due Date: Wednesday, February 21, 10:00AM Pacific Time
+### Due Date: Wednesday, February 21, 8:00AM Pacific Time
 
 ## Learning Goals 
 - This PA will give you an opportunity to reflect on how you work through
