@@ -1,0 +1,22 @@
+The errors that cause the exceptions on the back are:
+- Looking up parts[1] instead of parts[0] when looking for rectangle
+- The extra space in regions2.txt between 5 and 6
+
+Note that there is also a messed up formatting in regions1.txt – that's
+deliberate. That line actually does not cause an error. This is because while
+parts will be quite long, it won't cause an out of bounds access. That said, the
+extra rectangle  bit won't be included.
+
+The first error is interesting because a null is produced but doesn't cause an
+error until much later. This is a cautionary tale about return null and also a
+good example of thinking about what this must look like in memory. Also, we
+could do something more explicit in that null case and throw some meaningful
+exception that we choose, or even just print an error message.
+
+The second is interesting because we could either try to fix the program or try
+to fix the input file. I don't think it's worth trying to fix the program here,
+though we could report a more meaningful error.
+
+If there's time left, you can try to make it work if there are extra spaces, but
+that's actually pretty annoying with what we know right now, so just a
+high-level discussion of it could be useful.

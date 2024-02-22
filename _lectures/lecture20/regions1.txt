@@ -1,0 +1,4 @@
+circle 40 20 20
+rectangle 10 5 50 50
+rectangle 30 40 100 100
+circle 40 2 2 rectangle 30 40 100 100
