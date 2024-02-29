@@ -15,8 +15,8 @@ No new reading.
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1cqluzR_KGNNYXxENf88hOCEY_iiufK9D/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1xjQLDiUq2cO8cM-rHORvX325L4WkEfJU?usp=sharing){:target="_blank"}
