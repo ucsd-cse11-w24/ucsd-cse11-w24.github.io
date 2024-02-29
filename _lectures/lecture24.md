@@ -15,8 +15,8 @@ Stepik 12.2 (finish if you didn't for Wednesday): [https://stepik.org/lesson/578
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1d1hDOQCIMctxBuYuPMLxwU4o1oWNhPUP/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1xhkyBtRnRFKIO-5j8O6FtVr3F3JuW5lf?usp=sharing){:target="_blank"}

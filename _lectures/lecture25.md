@@ -15,8 +15,9 @@ _{{ page.released-on }}_
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1d247qLIdhJekDeUFWUq6ON4X2xSYQGAQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1vreM7a1gOYRYWmQAGps1sa7lp5cdYZfK?usp=sharing){:target="_blank"}
+https://drive.google.com/drive/folders/1xYdoDM3uBRiZ5gai7_eaqufAxu3aaa6c?usp=sharing
